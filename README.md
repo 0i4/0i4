@@ -11,7 +11,7 @@ My name is **Azlxy** and I'm a developer. I usually code in NodeJS and Python & 
   * A Fortnite bot which you can control through Discord.
 
 ## My Socials
-<a href="https://twitter.com/Azlxy">
+<a href="https://twitter.com/_Azlxy">
         <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
     </a>
 </br>
