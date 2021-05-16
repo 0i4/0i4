@@ -4,8 +4,6 @@
 
 </div>
 
-My name is **Azlxy** and I'm a developer. I usually code in NodeJS and Python & I mainly work on Fortnite related projects.
-
 ## My Projects
 * **[Sirius](https://github.com/Azlxy/Sirius)**
   * A Fortnite bot which you can control through Discord.
