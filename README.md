@@ -8,6 +8,9 @@
 * **[Sirius](https://github.com/Azlxy/Sirius)**
   * A Fortnite bot which you can control through Discord.
 
+* **[Sirius V2](https://github.com/Azlxy/SiriusV2)**
+  * Sirius, but you can control it in your browser.
+
 ## Socials
 <a href="https://twitter.com/_Azlxy">
         <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
