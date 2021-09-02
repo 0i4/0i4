@@ -1,5 +1,7 @@
 <div align="center">
 
+![Discord](https://discord.c99.nl/widget/theme-3/739283148797509734.png)
+
 # Welcome
 
 </div>
