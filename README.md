@@ -1,7 +1,21 @@
-<div align="center">
+<p href="blank" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/675144301243531296/>
+</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/739283148797509734)](https://discord.com/users/739283148797509734)
- 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azlxy&layout=compact&theme=dark&count_private=true"/> -->
- 
-</div>
+```py
+from GitHub import ReadMe
+
+class a7med(ReadMe):
+  "/0i4/0i4/README.md"
+
+  def __init__(self):
+    self.username = "a7med"
+    self.contacts = {
+      "Discord": "0xahmed#7777"
+    }
+    self.aliases = [
+      "ahmed"
+    ]
+    self.location = "United Kingdom"
+    self.age = 15
+```
