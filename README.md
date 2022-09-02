@@ -10,9 +10,6 @@ class a7med(ReadMe):
 
   def __init__(self):
     self.username = "a7med"
-    self.contacts = {
-      "Discord": "ahmed#0002"
-    }
     self.aliases = [
       "ahmed"
     ]
